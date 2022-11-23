@@ -1,0 +1,14 @@
+{
+  "name": "download_file_redirect_link",
+  "version": "1.0.0",
+  "description": "Download a file using a redirect link",
+  "main": "main.js",
+  "scripts": {
+    "main": "node main.js"
+  },
+  "author": "Nishant Srivastava",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "puppeteer": "^19.2.2"
+  }
+}
